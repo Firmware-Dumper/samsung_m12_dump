@@ -1,0 +1,19 @@
+# m12nsxx-user 13 TP1A.220624.014 M127FXXS9DXJ3 release-keys
+
+- manufacturer: samsung
+- platform: universal3830
+- codename: m12
+- flavor: m12nsxx-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: M127FXXS9DXJ3
+- tags: release-keys
+- fingerprint: samsung/m12nsxx/m12:13/TP1A.220624.014/M127FXXS9DXJ3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m12nsxx-user-13-TP1A.220624.014-M127FXXS9DXJ3-release-keys
+- repo: samsung_m12_dump
+- rom_type: stock
+- rom: One UI 3301
+- security_patch: 2024-10-01
+- model: SM-M127F
